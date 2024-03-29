@@ -35,7 +35,7 @@ If applicable, add screenshots to help explain your problem.
  - Version: N/A
 
 **Smartphone (please complete the following information):**
-  -Device: The issue is consistent across all devices as it's 
+ - Device: The issue is consistent across all devices as it's 
                  a web-based issue
  - OS: The issue is consistent across all operating systems as 
            it's a web-based issue
